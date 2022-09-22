@@ -1,0 +1,20 @@
+.output {
+  width: 35vw;
+  height: 350px;
+  background: #222;
+  border-radius: 10px;
+  margin-left: 2rem;
+  font-size: 15px;
+  padding: 1rem;
+  color: #fff;
+}
+
+.text-area {
+  font-size: 15px;
+  width: 35vw;
+  border-radius: 10px;
+  height: 350px;
+  outline: none;
+  padding: 1rem;
+  background: #f1f1f1;
+}
